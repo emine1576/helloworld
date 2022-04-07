@@ -76,13 +76,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0d1sdxsc5wng-artifactory-primary-0-releases</name>
-        <url>https://melissayavuz.jfrog.io/artifactory/maven-libs-snapshot-local</url>
+        <name>awxqrartws01-artifactory-primary-0-releases</name>
+        <url>https://awxqrartws01.jfrog.io/artifactory/melissa-libs-snapshot-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0d1sdxsc5wng-artifactory-primary-0-snapshots</name>
-        <url>https://melissayavuz.jfrog.io/artifactory/maven-libs-snapshot-local</url>
+        <name>awxqrartws01-artifactory-primary-0-snapshots</name>
+        <url>https://awxqrartws01.jfrog.io/artifactory/melissa-libs-snapshot-local</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement>   
 </project>
